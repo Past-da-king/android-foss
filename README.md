@@ -145,6 +145,7 @@ A list of **Free** and **Open Source Software** ***(FOSS)*** for **Android** –
 
 ### • Automation
 
+* [**Agent**](https://github.com/Past-da-king/agent)
 * [**Automation**](https://git.server47.de/jens/Automation) <sup>**[[F-Droid](https://f-droid.org/packages/com.jens.automation2)]**</sup>
 * [**Dicio**](https://github.com/Stypox/dicio-android) <sup>**[[F-Droid](https://f-droid.org/packages/org.stypox.dicio)]**</sup>
 * [**Home Assistant**](https://github.com/home-assistant/android) <sup>**[[F-Droid](https://f-droid.org/packages/io.homeassistant.companion.android.minimal)]**</sup>
